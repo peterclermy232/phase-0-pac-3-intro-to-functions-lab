@@ -28,20 +28,9 @@ function logWhisper(string){
 
 }
 
-
+let string = 'hello';
 
 function  sayHiToHeadphonedRoommate(string){
-    if(string === 'hello'){
-        return "I can't hear you!";
-    }
-    if(string === 'HELLO'){
-        return "YES INDEED!";
-    }
-    if(string === "Let's have dinner together!"){
-        return "I would love to!";
-    }
+    if(string ===)
 
 }
-sayHiToHeadphonedRoommate(string);
-sayHiToHeadphonedRoommate(string);
-sayHiToHeadphonedRoommate(string);
